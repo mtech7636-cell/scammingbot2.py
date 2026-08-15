@@ -17,7 +17,7 @@ def run_flask():
     app.run(host='0.0.0.0', port=port)
 
 # --- CONFIG ---
-TOKEN = "8648817582:AAGrmcWpE8PUfrOP-5kKMl50KKaRW4gXswg"
+TOKEN = "8610314259:AAHuJe7QeaDDR4h0-whnKel6N9kQ77bBzvo"
 bot = telebot.TeleBot(TOKEN, threaded=True)
 ADMIN_ID = 7212602902 
 
