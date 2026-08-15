@@ -1,1 +1,0 @@
-# scammingbot2.py
